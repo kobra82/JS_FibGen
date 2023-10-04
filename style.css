@@ -1,0 +1,16 @@
+.mask {
+  background-color: blue;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: white;
+  width: fit-content;
+  padding: 5px;
+}
+
+input {
+  margin-inline: 5px;
+}
+
+p {
+  margin: 10px 0px 10px 10px;
+}
